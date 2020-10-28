@@ -1,11 +1,11 @@
 
-dnscan https://github.com/rbsec/dnscan
+dnscan (https://github.com/rbsec/dnscan)
 
-Knockpy https://github.com/guelfoweb/knock
+Knockpy (https://github.com/guelfoweb/knock)
 
-Sublist3r https://github.com/aboul3la/Sublist3r
+Sublist3r (https://github.com/aboul3la/Sublist3r)
 
-massdns https://github.com/blechschmidt/massdns
+massdns (https://github.com/blechschmidt/massdns)
 
 nmap https://nmap.org
 
