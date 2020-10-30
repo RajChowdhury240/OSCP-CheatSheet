@@ -7,49 +7,49 @@ Sublist3r (https://github.com/aboul3la/Sublist3r)
 
 massdns (https://github.com/blechschmidt/massdns)
 
-nmap https://nmap.org
+nmap (https://nmap.org)
 
-masscan https://github.com/robertdavidgraham/masscan
+masscan (https://github.com/robertdavidgraham/masscan)
 
-EyeWitness https://github.com/ChrisTruncer/EyeWitness
+EyeWitness (https://github.com/ChrisTruncer/EyeWitness)
 
-DirBuster https://sourceforge.net/projects/dirbuster/
+DirBuster (https://sourceforge.net/projects/dirbuster/)
 
-dirsearch https://github.com/maurosoria/dirsearch
+dirsearch (https://github.com/maurosoria/dirsearch)
 
-Gitrob https://github.com/michenriksen/gitrob @myhackersworld
+Gitrob (https://github.com/michenriksen/gitrob @myhackersworld)
 
-git-secrets https://github.com/awslabs/git-secrets
+git-secrets (https://github.com/awslabs/git-secrets)
 
-sandcastle https://github.com/yasinS/sandcastle
+sandcastle (https://github.com/yasinS/sandcastle)
 
-bucket_finder https://digi.ninja/projects/bucket_finder.php
+bucket_finder (https://digi.ninja/projects/bucket_finder.php)
 
-GoogD0rker https://github.com/ZephrFish/GoogD0rker/
+GoogD0rker (https://github.com/ZephrFish/GoogD0rker/)
 
-Wayback Machine https://web.archive.org
+Wayback Machine (https://web.archive.org)
 
-waybackurls https://gist.github.com/mhmdiaa/adf6bff7...1d4b372050 Sn1per https://github.com/1N3/Sn1per/
+waybackurls (https://gist.github.com/mhmdiaa/adf6bff7...1d4b372050 Sn1per https://github.com/1N3/Sn1per/)
 
-XRay https://github.com/evilsocket/xray
+XRay (https://github.com/evilsocket/xray)
 
-wfuzz https://github.com/xmendez/wfuzz/
+wfuzz (https://github.com/xmendez/wfuzz/)
 
-patator https://github.com/lanjelot/patator
+patator (https://github.com/lanjelot/patator)
 
-datasploit https://github.com/DataSploit/datasploit
+datasploit (https://github.com/DataSploit/datasploit)
 
-hydra https://github.com/vanhauser-thc/thc-hydra
+hydra (https://github.com/vanhauser-thc/thc-hydra)
 
-changeme https://github.com/ztgrace/changeme
+changeme (https://github.com/ztgrace/changeme)
 
-MobSF https://github.com/MobSF/Mobile-Security...ork-MobSF/ Apktool https://github.com/iBotPeaches/Apktool
+MobSF (https://github.com/MobSF/Mobile-Security...ork-MobSF/ Apktool https://github.com/iBotPeaches/Apktool)
 
-dex2jar https://sourceforge.net/projects/dex2jar/
+dex2jar (https://sourceforge.net/projects/dex2jar/)
 
-sqlmap http://sqlmap.org/
+sqlmap (http://sqlmap.org/)
 
-oxml_xxe https://github.com/BuffaloWill/oxml_xxe/ @myhackersworld
+oxml_xxe (https://github.com/BuffaloWill/oxml_xxe/ @myhackersworld)
 
 XXE Injector https://github.com/enjoiz/XXEinjector
 
