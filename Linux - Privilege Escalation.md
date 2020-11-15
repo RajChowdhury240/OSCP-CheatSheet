@@ -153,6 +153,14 @@ grep --color=auto -rnw '/' -ie "PASSWORD" --color=always 2> /dev/null
 find . -type f -exec grep -i -I "PASSWORD" {} /dev/null \;
 ```
 
+
+###  If commands are limited, you break out of the "jail" shell? 
+```python -c 'import pty;pty.spawn("/bin/bash")'
+echo os.system('/bin/bash')
+/bin/sh -i
+```
+
+
 ### Old passwords in /etc/security/opasswd
 
 The `/etc/security/opasswd` file is used also by pam_cracklib to keep the history of old passwords so that the user will not reuse them.
