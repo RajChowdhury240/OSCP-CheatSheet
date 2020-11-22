@@ -793,3 +793,5 @@ https://www.exploit-db.com/exploits/18411
 * [Linux Password Security with pam_cracklib - Hal Pomeranz, Deer Run Associates](http://www.deer-run.com/~hal/sysadmin/pam_cracklib.html)
 * [Local Privilege Escalation Workshop - Slides.pdf - @sagishahar](https://github.com/sagishahar/lpeworkshop/blob/master/Local%20Privilege%20Escalation%20Workshop%20-%20Slides.pdf)
 * [SSH Key Predictable PRNG (Authorized_Keys) Process - @weaknetlabs](https://github.com/weaknetlabs/Penetration-Testing-Grimoire/blob/master/Vulnerabilities/SSH/key-exploit.md)
+
+* [Linux Privilege Escalation Udemy Course](https://mega.nz/file/reAQxSxA#ZTrVDC0LlHMtYQf2_2Jb1x0IKfVXeQO2jmEr7er0Vag)
