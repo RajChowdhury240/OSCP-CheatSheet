@@ -1,0 +1,92 @@
+Web scan
+
+#Gobuster
+
+gobuster -u http://ip -w /usr/share/wordlists/dirbuster/directory-list-lowercase-2.3-small.txt -x php -o scans/gobuster-root-80-php
+gobuster -u ip -w /usr/share/seclists/Discovery/Web_Content/common.txt -t 80 -a Linux
+gobuster -s 200,204,301,302,307,403 -u 10.10.10.10 -w /usr/share/seclists/Discovery/Web_Content/big.txt -t 80 -a 'Mozilla/5.0 (X11; Linux x86_64; rv:52.0) Gecko/20100101 Firefox/52.0'
+gobuster dir -u ip -w /usr/share/seclists/Discovery/Web_Content/common.txt -t 80 -a Linux -x .txt,.php
+gobuster dir -u https://mysite.com/path/to/folder -c 'session=123456' -t 50 -w common-files.txt -x .php,.html
+gobuster -u http://ip -w /usr/share/seclists/Discovery/Web_Content/common.txt -s '200,204,301,302,307,403,500' -e
+gobsuter dir -w wordlist  -u http://ip -t 100 -s 200 -f
+gobuster dir -w /usr/share/wordlists/dirbuster/directory-list-2.3-medium.txt -l -t 30 -e -k -x .asp,.aspx,.txt -u http://ip:80 -o 10.10.10.93/recon/gobuster-medium-ext_10.10.10.93_80.txt
+
+
+# Gobuster
+
+gobuster -u <targetip> -w /usr/share/seclists/Discovery/Web_Content/common.txt -s '200,204,301,302,307,403,500' -e
+----------------------------------------------
+
+# nikto
+
+nıkto -h <targetip>
+----------------------------------------------
+
+# curl
+
+curl -v -X OPTIONS http://<targetip>/test/
+curl --upload-file <file name> -v --url <url> -0 --http1.0
+
+#dirsearch
+
+dirsearch -u http://ip/dvwa -e php
+dirsearch -u http://ip/dvwa -e php -x 403
+dirsearch -u http://ip/dvwa -e php -x 403,301,302 -w /usr/share/wordlists/wfuzz/general/common.txt
+dirsearch -u http://ip/dvwa -e php -x 403,301,302 -r
+dirsearch -u http://ip/dvwa -e php -x 403,301,302 -r -R 3
+python3 dirsearch.py -f -e html,php,tar.gz,txt,xml,zip -u http://ip/w3lc0m3707h364m3/ -w ../lists/big.txt -> 
+
+
+#Dirb 
+
+dirb http://localhost:5000 ./docs/common.txt
+ dirb http://webscantest.com /usr/share/dirb/wordlists/vulns/apache.txt
+ dirb http://ip/dvwa/ -N 302
+ dirb http://ip/dvwa -z  100
+ dirb http://ip/dvwa -r
+ dirb http://ip/dvwa -H .php
+dirb http://ip:8000 -X .php, .txt, .py 
+dirb http://ip/cgi-bin/ -N 403
+dirb http://target.com -a "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36"
+
+
+
+#WFUZZ
+
+wfuzz -c -w /usr/share/seclists/Discovery/Web_Content/common.txt --hc 404 $ip/FUZZ
+wfuzz -c -w /usr/share/seclists/Discovery/Web_Content/common.txt -R 3 --sc 200 $ip/FUZZ
+wfuzz -c -z file,/root/.ZAP/fuzzers/dirbuster/directory-list-2.3-big.txt --sc 200 http://pegasus.dev:8088/FUZZ.php
+wfuzz --hw=1 --hh=3076 -w seclist_common_wordlist.txt http://ip/FUZZ
+
+
+
+
+
+#CMS
+
+cmsmap http://IP_ADDR -f (D,J…)
+
+droopescan scan drupal -u http://IP_ADDR
+
+wpscan --url http://IP_ADDR --enumerate u,p,t
+
+wpscan --url //dc-2 --enumerate p --enumerate t --enumerate u
+
+# wordpress
+
+wpscan --url http://.... --log
+wpscan --url http://... --enumerate u --log
+wpscan --url http://<targetip> --wordlist wordlist.txt --username example_username
+http://....../wp-admin
+http://...../wp-content/uploads/2017/10/file.png
+  
+
+joomscan -u http://192.168.1.102:8081
+
+
+#wordlist 
+
+/usr/share/wordlists/dirbuster/directory-list-2.3-medium.txt
+/usr/share/wordlists/rockyou.txt
+/usr/share/dirb/wordlists/big.txt
+/usr/share/seclists/Web-Shells
