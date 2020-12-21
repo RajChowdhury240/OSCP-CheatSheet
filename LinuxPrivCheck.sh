@@ -185,4 +185,3 @@ echo -e "\e[35m#   \e[36m Script has been completed!  \e[35m  #"
 echo -e "\e[35m#----------------------------------#"
 echo    "                                          "
 echo -e "\e[39m"
-
