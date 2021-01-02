@@ -2,7 +2,6 @@
 #---------------------------------------------------------------------------------#
 # Usage      = chmod +x CronJobChecker.sh && ./CronJobChecker.sh                  #
 #---------------------------------------------------------------------------------#
-
 IFS=$'\n'
 
 # Check list of running processes
@@ -15,4 +14,3 @@ while true; do
   sleep 1
   old_proc=$new_proc
 done
-
