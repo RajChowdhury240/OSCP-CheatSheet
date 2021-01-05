@@ -323,3 +323,4 @@ hashcat --force -m 1400 --username hash.txt /usr/share/wordlists/rockyou.txt
 ## Basic Auth Bruteforcing 
 
 [Link](http://www.dailysecurity.net/2013/03/22/http-basic-authentication-dictionary-and-brute-force-attacks-with-burp-suite/)
+
