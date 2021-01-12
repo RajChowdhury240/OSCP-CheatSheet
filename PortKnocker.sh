@@ -2,8 +2,8 @@
 #---------------------------------------------------------------------------------#
 # Name       = Port Knocking Script                                               #
 # Author     = @RootRaj                                                           #
-# Date       = 13/01/2021                                                          #
-# Usage      = chmod +x PortKnokcer.sh && ./PortKnocker.sh                        #
+# Date       = 13/01/2021                                                         #
+# Usage      = chmod +x PortKnocker.sh && ./PortKnocker.sh                        #
 #---------------------------------------------------------------------------------#
 
 # Check user input
