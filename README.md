@@ -1442,3 +1442,4 @@ https://www.reddit.com/r/oscp/
 
     #!/bin/bash
     sudo mount -t vboxsf share/~share
+
