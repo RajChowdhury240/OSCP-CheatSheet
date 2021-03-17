@@ -11,5 +11,5 @@ python ./RsaCtfTool.py -n 682309795655990630471804755943450377293567079416887268
 
 
 ```bash
-replace n & c with ur challenge given number !! 
+replace n , e & c with ur challenge given number !! 
 ```
