@@ -4,7 +4,6 @@
 # Usage      = chmod +x LinuxPrivCheck.sh && ./LinuxPrivCheck.sh                  #
 #---------------------------------------------------------------------------------#
 
-
 echo    "                                          "
 echo -e "\e[35m#----------------------------------#"
 echo -e "\e[35m#          \e[36m OS Information  \e[35m       #"
