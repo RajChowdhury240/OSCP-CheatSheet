@@ -1,6 +1,6 @@
 #---------------------------------------------------------------------------------#
 # Name       = Linux Quick n' Dirty Privilege Escalation Check Script             #
-# Author     = @Raj-Chowdhury                                                     #                                                        
+# Author     = Raj Chowdhury                                                     #                                                        
 # Usage      = chmod +x LinuxPrivCheck.sh && ./LinuxPrivCheck.sh                  #
 #---------------------------------------------------------------------------------#
 
