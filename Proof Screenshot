@@ -1,0 +1,2 @@
+Windows : type proof.txt && whoami && hostname && ipconfig
+Linux : cat proof.txt && whoami && hostname && ip addr
