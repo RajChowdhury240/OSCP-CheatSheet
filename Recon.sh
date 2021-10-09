@@ -6,8 +6,6 @@
 # Usage      = chmod +x Recon.sh && ./Recon.sh <IP Address>                       #
 #---------------------------------------------------------------------------------#
 
-
-
 # check for IP argument
 
 if [ -z "$1" ]; then
