@@ -1,4 +1,6 @@
-![OSCP](https://hackersinterview.com/wp-content/uploads/2020/04/Pre-Enrollment-OSCP-Preparation-600x277.png)
+### OSCP Exam now has some major changes .... Those are -
+
+![OSCP](OSCP-NEW.png)
 
 
 
