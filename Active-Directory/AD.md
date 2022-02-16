@@ -688,4 +688,4 @@ net group "Domain Admins" hacker2 /add /domain
 * [Kerberoasting - Part 1 - Mubix “Rob” Fuller](https://room362.com/post/2016/kerberoast-pt1/)
 * [[PrivExchange] From user to domain admin in less than 60sec ! - davy](http://blog.randorisec.fr/privexchange-from-user-to-domain-admin-in-less-than-60sec/)
 * [Abusing Exchange: One API call away from Domain Admin - Dirk-jan Mollema](https://dirkjanm.io/abusing-exchange-one-api-call-away-from-domain-admin)
-* [Red Teaming Made Easy with Exchange Privilege Escalation and PowerPriv - Thursday, Janu
+* [Red Teaming Made Easy with Exchange Privilege Escalation and PowerPriv - Thursday, Janu](http://blog.redxorblue.com/2019/01/red-teaming-made-easy-with-exchange.html)
