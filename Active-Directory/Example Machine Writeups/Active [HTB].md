@@ -1,4 +1,4 @@
-# HackTheBox-Active
+# HackTheBox Active
 
 ## Rustscan
 
