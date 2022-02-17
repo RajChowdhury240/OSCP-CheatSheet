@@ -1,3 +1,4 @@
+![](https://media-exp1.licdn.com/dms/image/C4E12AQEbXUUYKt9ZUg/article-cover_image-shrink_600_2000/0/1622995123409?e=1650499200&v=beta&t=cjctmVkwsxQtlBZ-rTulfe8Hlr1rNaamKXPKSzIz9m0)
 ### OSCP Exam now has some major changes .... Those are -
 
 ![OSCP](OSCP-NEW.png)
