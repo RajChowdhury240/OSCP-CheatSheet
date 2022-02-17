@@ -1,4 +1,4 @@
-![](https://media-exp1.licdn.com/dms/image/C4E12AQEbXUUYKt9ZUg/article-cover_image-shrink_600_2000/0/1622995123409?e=1650499200&v=beta&t=cjctmVkwsxQtlBZ-rTulfe8Hlr1rNaamKXPKSzIz9m0=250x250)
+![](https://images.credly.com/images/e3c9ad3c-b142-45ae-bb2b-2f19ff2b742a/PWK-OSCP-badge.png)
 ### OSCP Exam now has some major changes .... Those are -
 
 ![OSCP](OSCP-NEW.png)
