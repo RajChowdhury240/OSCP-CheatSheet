@@ -4,7 +4,7 @@ description: Active Directory
 
 # ATTACKTIVE DIRECTORY
 
-![](../.gitbook/assets/bc3749c26ec24501a38957e7869a9de1.png)
+![](https://github.com/TheLivestep/WRITEUPS/blob/master/.gitbook/assets/bc3749c26ec24501a38957e7869a9de1.png)
 
 ## NMAP SCAN
 
@@ -104,7 +104,7 @@ HOP RTT      ADDRESS
 kerbrute -users users.txt -domain spookysec.local -dc-ip 10.10.109.179
 ```
 
-![](../.gitbook/assets/619d613276d84b148ea0cfc255648964.png)
+![](https://github.com/TheLivestep/WRITEUPS/blob/master/.gitbook/assets/619d613276d84b148ea0cfc255648964.png)
 
 ### ASREPROAST
 
@@ -112,27 +112,27 @@ kerbrute -users users.txt -domain spookysec.local -dc-ip 10.10.109.179
 impacket-GetNPUsers spookysec.local/ -usersfile roasting.txt -dc-ip 10.10.109.179
 ```
 
-![](../.gitbook/assets/172217409aaa48be9f6d9c5ed6637855.png)
+![](https://github.com/TheLivestep/WRITEUPS/blob/master/.gitbook/assets/172217409aaa48be9f6d9c5ed6637855.png)
 
 ### DECRIPTING
 
-![](../.gitbook/assets/6e4a663649a44f73b71d009e1a5cca2e.png)
+![](https://github.com/TheLivestep/WRITEUPS/blob/master/.gitbook/assets/6e4a663649a44f73b71d009e1a5cca2e.png)
 
-![](../.gitbook/assets/90bef727c91e4a8aba6430684e1bb318.png)
+![](https://github.com/TheLivestep/WRITEUPS/blob/master/.gitbook/assets/90bef727c91e4a8aba6430684e1bb318.png)
 
 ## SHARES ENUMERATION
 
-![](../.gitbook/assets/734a30d7dc724748ab0a707e0d33e8ac.png)
+![](https://github.com/TheLivestep/WRITEUPS/blob/master/.gitbook/assets/734a30d7dc724748ab0a707e0d33e8ac.png)
 
-![](../.gitbook/assets/a0fa1d57a27d456c9046eb74387afa85.png)
+![](https://github.com/TheLivestep/WRITEUPS/blob/master/.gitbook/assets/a0fa1d57a27d456c9046eb74387afa85.png)
 
 ## HASHDUMP
 
-![](../.gitbook/assets/8bc2bf7408374ac78db589d0d78947e3.png)
+![](https://github.com/TheLivestep/WRITEUPS/blob/master/.gitbook/assets/8bc2bf7408374ac78db589d0d78947e3.png)
 
 ## GETTIN SHELL
 
-![](../.gitbook/assets/e04dede3157246b685209be25863266d.png)
+![](https://github.com/TheLivestep/WRITEUPS/blob/master/.gitbook/assets/e04dede3157246b685209be25863266d.png)
 
 ## ANSWERS
 
