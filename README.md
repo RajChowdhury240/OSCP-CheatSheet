@@ -2,7 +2,7 @@
 ### OSCP Exam now has some major changes .... Those are -
 
 ![OSCP](OSCP-NEW.png)
-
+![OSCP](OSCP-Changes.png)
 
 
 **OSCP Notes**
