@@ -101,8 +101,10 @@ take a big one and remove "manual"
 *gobuster*
 
     gobuster dir -u <ip> -w /usr/share/wordlists/x
+    
 *dirsearch*
     dirsearch -u <url>
+
 *feroxbuster*
     feroxbuster --ur <url>
     
