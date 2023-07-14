@@ -102,11 +102,11 @@ take a big one and remove "manual"
 
     gobuster dir -u <ip> -w /usr/share/wordlists/x
     
-*dirsearch*
-    dirsearch -u <url>
+#### dirsearch
+```dirsearch -u <url>```
 
-*feroxbuster*
-    feroxbuster --ur <url>
+#### feroxbuster
+```feroxbuster --ur <url>```
     
 **Enumeration**
 
