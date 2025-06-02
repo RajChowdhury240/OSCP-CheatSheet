@@ -1,4 +1,4 @@
-![OSCP+](OSCP+.png)
+![OSCP+](OSCP+.jpg)
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=Rajchowdhury420/OSCP-CheatSheet&type=Date)](https://star-history.com/#Rajchowdhury420/OSCP-CheatSheet&Date)
